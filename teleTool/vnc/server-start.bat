@@ -1,0 +1,1 @@
+winvnc4.exe -noconsole SecurityTypes=None
