@@ -1,1 +1,0 @@
-winvnc4.exe -connect 127.0.0.1

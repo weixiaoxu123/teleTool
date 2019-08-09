@@ -1,1 +1,0 @@
-winvnc4.exe -connect  160.196.0.0

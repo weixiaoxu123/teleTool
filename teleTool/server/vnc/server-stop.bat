@@ -1,1 +1,0 @@
-taskkill /f /t /im  winvnc4.exe
