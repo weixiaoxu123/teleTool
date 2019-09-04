@@ -11,7 +11,7 @@ export function getIp () {
   var listKeys = Object.keys(netList)
   for (let i = 0; i < listKeys.length; i++) {
     for (let j = 0; j < netList[listKeys[i]].length; j++) {
-      if ((netList[listKeys[i]][j]['address'].indexOf('192')) !== -1) {
+      if ((netList[listKeys[i]][j]['address'].indexOf('132')) !== -1) {
         let ip = netList[listKeys[i]][j]['address']
         let ipv4 = ipcodec.encode(ip)
         return ipv4
